@@ -30,4 +30,6 @@ Questions:
 - How to tackle security of application in backend
 - springboot vs spring MVC
 - How to implement custom sorting in java
+- Explain solid principles
+- Factory vs Abstract design pattern
 

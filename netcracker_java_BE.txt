@@ -1,0 +1,36 @@
+
+-----------
+NetCraker:
+-----------
+
+coding :
+- Find duplicate in arraylist in java 8
+- Validate balanced parenthesis in java
+- Maximum non repeating substring of a string
+
+---
+
+Questions :
+- All git commands
+- fetch vs rebase in git
+- wait vs sleep
+- callable vs runnable
+- How to create thread in java
+- can we inherit abstract class
+- Why do we have functional interfaces
+- can we inherit FI
+- what are lambda expressions
+- what is optional
+- what are streams (with example)
+- What are intermediate and terminal operations in stream
+- can we pass the result from terminal operation to stream again
+- what is garbage collector
+- how to trigger garbage collector
+- what is role of hashcode and equals method
+- where in java its mandatory to override hashcode and equals method\
+- what is collision in hashmap
+- What are joins
+- how to decide which join to use ?
+- JS is dynamically typed or static typed
+- What handles dynamically typed nature of JS
+- == vs ===

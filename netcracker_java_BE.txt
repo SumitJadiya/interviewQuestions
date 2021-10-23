@@ -26,11 +26,14 @@ Questions :
 - can we pass the result from terminal operation to stream again
 - what is garbage collector
 - how to trigger garbage collector
+- Shallow copy vs deep copy ?
+- what is call by value vs call by reference
 - what is role of hashcode and equals method
 - where in java its mandatory to override hashcode and equals method\
 - what is collision in hashmap
 - What are joins
 - how to decide which join to use ?
+- Java/JS uses call by value or reference ?
 - JS is dynamically typed or static typed
 - What handles dynamically typed nature of JS
 - == vs ===

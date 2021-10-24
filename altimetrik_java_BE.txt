@@ -32,4 +32,4 @@ Questions:
 - How to implement custom sorting in java
 - Explain solid principles
 - Factory vs Abstract design pattern
-
+- What is caching and how to implement caching

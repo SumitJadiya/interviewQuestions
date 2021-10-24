@@ -37,3 +37,4 @@ Questions :
 - JS is dynamically typed or static typed
 - What handles dynamically typed nature of JS
 - == vs ===
+- How to implement caching in FE
